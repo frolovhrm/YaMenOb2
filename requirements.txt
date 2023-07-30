@@ -1,0 +1,9 @@
+
+
+#  pip install opencv-python
+#  pip install pytesseract
+#  pip install tqdm
+
+pytesseract~=0.3.10
+opencv-python~=4.6.0.66
+tqdm~=4.64.1
